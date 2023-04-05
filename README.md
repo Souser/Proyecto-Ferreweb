@@ -2,7 +2,7 @@
 
 1. Para clonar el repositorio <code>git clone https://github.com/thisishaykins/PyShop.git</code> <hr>
 2. Abrir la terminal en la carpeta descargada
-3. Preparar el entorno virtual <code>python3 -m venv venv<code>
+3. Preparar el entorno virtual <code>python3 -m venv venv</code>
 4. Activar el entorno virtual <code>source env/bin/activate</code>
 5. Instalar las dependencias <code>pip install -r requirements.txt</code>
 6. Crear las migraciones <code>python3 manage.py makemigrations</code>
